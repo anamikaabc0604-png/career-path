@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import { motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 import { CheckCircle, ArrowRight, User, TrendingUp, Compass, Shield, BarChart3, Target } from 'lucide-react';
 import heroImage from '../assets/hero-image.png';
 
